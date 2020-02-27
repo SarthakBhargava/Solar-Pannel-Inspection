@@ -1,2 +1,2 @@
 # Solar-Pannel-Inspection
-website for solar panel inspevtion
+website for solar panel inspection
